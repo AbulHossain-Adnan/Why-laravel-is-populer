@@ -1,0 +1,82 @@
+Why is the MVC framework Laravel so popular?
+-------------------------------------------
+
+Why Laravel is Consider as One Of The Best PHP Framework in 2018?
+
+Choosing a right PHP framework to develop a web application for your 
+business can be a very difficult task because there are so many other 
+options available. From the past few years, We at TechCompose Solutions 
+use Laravel framework on a regular basis for Laravel application development.
+ We have worked and tested other PHP development frameworks as well. However, 
+we needed some additional features and capabilities. In our previous blog,
+ where we discussed top PHP development frameworks.
+
+ let’s see what are the major technical advantages which make Laravel the best out of all.
+
+1) Authorization Technique:
+-------------------------
+
+Laravel framework makes implementation of authentication techniques very simple. Almost everything is configured perfectly. Laravel provides a very simple way to organize authorization logic and control access to various resources.
+
+2) Object-Oriented Libraries:
+-----------------------------
+
+Laravel is the best PHP framework as it has Object Oriented libraries and 
+other pre-installed ones, which are not found in any other PHP frameworks. 
+One of the pre-installed libraries is the Authentication library. It has 
+many advanced features like checking active users, Bcrypt hashing, password 
+reset, CSRF (Cross-site Request Forgery) protection, and encryption.
+
+3) Artisan:
+----------------------------
+
+Laravel framework offers a build in a tool named Artisan. This tool allows 
+a developer to perform the majority of those repetitive and tedious 
+programming tasks which most of the developers avoid performing manually.
+
+4) MVC Support:
+---------------------------
+
+Another reason which makes Laravel the best PHP framework is it supports MVC 
+Architecture like Symfony, ensuring clarity between logic and presentation.
+ MVC helps in improving the performance, allows better documentation, and has 
+multiple built-in functionalities. Here’s how the MVC works for Laravel.
+
+5) Security:
+--------------------------
+
+Laravel takes care of the security within its framework. It uses the hashed 
+password, which means that the password would never save as the plain text in 
+the database. Laravel framework uses prepared SQL statements which make
+ injection attacks unimaginable.
+
+6) Database Migration
+-------------------------
+
+With Laravel framework database migrations, it is extremely easy. As long as 
+you keep all of the database work in migrations and seeds, you can easily 
+migrate the changes into any other development machine you have.
+
+7) Great Tutorials (Laracasts):
+-----------------------------
+
+Developers always need to learn more in order to deliver more. Laravel offers Laracasts features which is a mix of free and paid video tutorials that show you how to use Laravel for development. The videos are all created by Jeffery Way, an expert instructor. The video quality is high, and the lessons are well-thought out and meaningful.
+
+8) Blade Templating Engine:
+----------------------------
+
+The Blade templating engine of the Laravel framework is very intuitive and helps to work with the typical PHP/HTML spaghetti so perfect, that’s it one of the best features of the Laravel framework.
+
+9) Responsable Interface
+---------------------------
+
+Responsable Interface is a newly added feature in the Laravel framework with the release of Laravel 5.5. It is defined as a class which is used to implement the interface which can be returned by using the controller method.
+
+10) Automatic Package Discovery
+-------------------------------
+
+Laravel 5.5 has a new feature called Automatic Package Discovery which detects the packages automatically which users want to install. Which means that now users don’t have to set up any aliases or providers from installing new packages in Laravel. Laravel 5.5 also allows developers to disable this feature for specific packages.
+
+Conclusion
+
+So these are the reason Why Laravel is Consider as One Of The Best PHP Framework in 2018?. The popularity of Laravel framework is on the rise due to the above incredible features. Also, Laravel provides extensive community support as well. If you are looking for a fully functional web application then you need a reputed Laravel Application Development Company.
